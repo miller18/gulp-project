@@ -1,0 +1,21 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "authors": [
+    "Donald Allen <don@topdraw.com>"
+  ],
+  "description": "Testing Project",
+  "main": "styles.css",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "latest"
+  }
+}
